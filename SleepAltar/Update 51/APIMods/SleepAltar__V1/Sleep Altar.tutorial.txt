@@ -1,0 +1,5 @@
+- The Sleep Altar is a multiblock that will skip the night.
+- To construct the altar, place the Sleep Altar Head on top of the Sleep Altar Base.
+- To activate the altar, hit it with a tool. To remove it, mine both blocks with a pickaxe.
+- By default, you can only sleep between 5:30 PM and 7:00 AM. This can be adjusted in config.txt, located within the API folder. Simply edit sleepy_time and wakeup_time with your desired values. Time in cyubeVR is measured from 0 to 2400.
+- If you'd like to completely disable this mechanic, set sleep_mechanic to 0 in config.txt.

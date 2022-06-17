@@ -1,0 +1,20 @@
+{    
+    "Name": "Sleep Altar Base",
+    "CreatorName": "Kingtut 101",
+	"CategoryName": "Utilities",
+    "UniqueID": 1019010,
+    "Recipe": {
+		"Array" : [11,72,11,11,35,11,11,72,11,11,33,11,33,35,33,11,33,11,11,72,11,11,35,11,11,72,11],
+		"SizeX": 3,
+		"SizeY": 3,
+		"SizeZ": 3
+	},
+    "Yield": 1,
+    "SimilarTo": 4,
+	"AllowMove" : false,
+    "Textures": {
+        "Mode": 3,
+        "WithNormals" : false,
+		"WithGlowMap" : true
+      }
+}

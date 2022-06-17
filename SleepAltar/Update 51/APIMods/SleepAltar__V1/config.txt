@@ -1,0 +1,3 @@
+sleepy_time: 1750
+wakeup_time: 700
+sleep_mechanic: 1
