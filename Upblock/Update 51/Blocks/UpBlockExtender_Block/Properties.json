@@ -1,0 +1,19 @@
+{    
+    "Name": "Upblock Extender",
+    "CreatorName": "Kingtut 101",
+    "UniqueID": 1019002,
+    "Recipe": {
+      "Array" : [],
+      "SizeX": 0,
+      "SizeY": 0,
+      "SizeZ": 0
+    }, 
+    "Yield": 0,
+    "SimilarTo": 4,
+	"UniqueIDToDrop": -1,
+	"AllowMove" : false,
+    "Textures": {
+        "Mode": 3,
+        "WithNormals" : false
+      }
+}

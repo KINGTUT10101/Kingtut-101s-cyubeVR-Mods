@@ -1,0 +1,24 @@
+Upblock v1.1
+
+Made by Kingtut 101:
+https://sites.google.com/view/retrocitycenter/home
+https://www.youtube.com/kingtut-101
+
+Notes:
+-All of my block IDs start with 101. Keep this in mind if you
+plan on making custom blocks of your own.
+-This mod includes an in-game tutorial. You can find it within the
+tutorial tab in the suitcase
+-The mod's textures and source code can be found within
+the Blocks and APIMods folders, respectively.
+-Unless otherwise stated, my code and textures are open source
+and free to use. Just credit me and tell me what projects
+you'll use them in!
+
+Changelog:
+v1.1:
+-Updated code for cyubeVR beta v51.51
+-Prepared the mod for Steam Workshop
+-Fixed a bug that prevented the tower from collapsing properly
+-It should no longer be possible for the Upblock extender to drop itself.
+-The Upblocks will no longer delete other Upblocks placed above itself.

@@ -1,0 +1,5 @@
+- This block allows you to easily travel upwards by placing blocks beneath your feet!
+- To extend the Upblock, hit it with a pickaxe. It will teleport you upwards and place an extender block underneath you.
+- To remove the Upblock and its extenders, use an axe. To remove an entire tower, hit the bottommost block with an axe. The blocks above it will be deleted.
+- If you're standing on an Upblock tower, hit the topmost block with a sledgehammer to remove the tower and be teleported to the ground.
+- Make sure there are at least five blocks of space above the Upblock, or else it won't extend.
