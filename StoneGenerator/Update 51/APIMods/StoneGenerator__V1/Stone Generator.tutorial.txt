@@ -1,0 +1,5 @@
+-Hit the stone generator with an axe to destroy it.
+-Hit it with any other tool to spawn a block.
+-The block may be stone or an ore.
+-The spawn timer and spawn chances can be adjusted in config.txt (located in the block's folder).
+-By default, the stone generator will wait two seconds before it can spawn another block.

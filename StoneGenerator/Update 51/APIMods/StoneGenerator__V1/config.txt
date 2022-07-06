@@ -1,0 +1,7 @@
+regen_speed: 2
+stone_chance: 81
+coal_chance: 8
+iron_chance: 4
+copper_chance: 4
+gold_chance: 2
+crystal_chance: 1

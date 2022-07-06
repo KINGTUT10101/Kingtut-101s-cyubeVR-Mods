@@ -1,0 +1,18 @@
+{    
+    "Name": "Stone Generator",
+    "CreatorName": "Kingtut 101",
+    "UniqueID": 1019000,
+    "Recipe": {
+		"Array" : [11,35,11,11,23,11,11,35,11,35,24,35,22,68,22,35,24,35,11,35,11,11,23,11,11,35,11],
+		"SizeX": 3,
+		"SizeY": 3,
+		"SizeZ": 3
+	},
+    "Yield": 1,
+    "SimilarTo": 2,
+    "Textures": {
+        "Mode": 3,
+        "WithNormals" : false,
+		"WithGlowMap" : true
+      }
+  }
